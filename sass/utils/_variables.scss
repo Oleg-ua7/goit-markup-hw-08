@@ -1,31 +1,19 @@
-$main-font: "Roboto", sans-serif;
-$logo-font: "Raleway", sans-serif;
-$text-dark-theme-color: #ffffff;
-$text-white-theme-color: #757575;
-$title-text-color: #212121;
+$main-font: 'Roboto', sans-serif;
+$second-font: 'Raleway', sans-serif;
+$primary-text-color: #757575;
+$primary-title-color: #212121;
 $accent-color: #2196f3;
-$address-dark-theme-color: rgba(255, 255, 255, 0.6);
-$button-background-color: #f5f4fa;
-$social-link-color: #afb1b8;
+$primary-white-color: #ffffff;
+$footer-background-color: #2f303a;
+$secondary-white-color: #f5f4fa;
+$main-black-color: #000000;
+$footer-links-color: rgba(255, 255, 255, 0.6);
+$secondaty-accent-color: #188ce8;
+$text-background-color: rgba(47, 48, 58, 0.8);
+$socials-main-color: #afb1b8;
+$primary-background-color: #e5e5e5;
+$portfolio-card-border-color: #eeeeee;
+$hero-gradient-color: rgba(47, 48, 58, 0.8);
+$header-border-color: #ececec;
 
-.title {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.16;
-  text-align: center;
-  color: $title-text-color;
-}
-.portfolio-filter-button:hover,
-.portfolio-filter-button:focus,
-.footer-center-social-link:hover,
-.footer-center-social-link:focus,
-.footer-address-link:hover,
-.footer-address-link:focus,
-.team-social-link:hover,
-.team-social-link:focus,
-.navigation-list-link:hover,
-.navigation-list-link:focus .navigation-address-link:focus,
-.navigation-address-link:hover {
-  color: $accent-color;
-  fill: $accent-color;
-}
+$max-width: 1200px;
