@@ -474,6 +474,7 @@ header .section {
 
 .menu-container.is-open {
   display: block;
+  z-index: 1;
 }
 
 .main-nav,
